@@ -1,6 +1,6 @@
 [project]
 name = "hi_Seokxkyu"
-version = "0.8.0"
+version = "9.0.0"
 description = "Default template for PDM package"
 authors = [
     {name = "Seokxkyu", email = "kyuseok000@gmail.com"},
